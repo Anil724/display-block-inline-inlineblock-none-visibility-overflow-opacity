@@ -1,0 +1,165 @@
+/* body{
+    background-color: lightblue;
+} */
+#block{
+    text-align: center;
+    background-color: red;
+}
+#thor{
+    display: block;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#strange{
+    display: block;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#spider{
+    display: block;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#inline{
+   text-align: center;
+   background-color: red;
+}
+#thor1{
+    display: inline;
+    font-size: 2rem;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#strange1{
+    display:inline;
+    font-size: 2rem;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#spider1{
+    display: inline;
+    font-size: 2rem;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#parah{
+    display: inline;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#inlineblock{
+    text-align: center;
+    background-color: red;
+}
+#thor2{
+    display: inline-block;
+    font-size: 1rem;
+    width: 200px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#strange2{
+    display:inline-block;
+    font-size: 1rem;
+    width: 400px;
+    height: 200px;
+    color: black;
+    background-color: aqua;
+}
+#spider2{
+    display:  inline-block;
+    font-size: 1rem;
+    width: 100px;
+    height: 50px;
+    color: black;
+    background-color: aqua;
+}
+#marvel{
+    text-align: center;
+    background-color: red;
+    font-size: 5rem;
+    border: 20px solid yellow;
+    border-radius: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: deepskyblue;
+    box-shadow: 10px 10px 10px palevioletred;
+    /* text-shadow: 20px 20px 50px green; */
+    /* width: 1000px; */
+}
+#doctorHeading{
+   background-color: greenyellow;
+   width: 170px;
+   text-align: center;
+}
+#strangePic{
+    width: 400px;
+    height: 300px;
+    visibility: visible;
+    /* display: none; */
+    opacity: 0.5;
+}
+#doctorParah{
+    display: inline-block;
+    width: 1050px;
+    height: 290px;
+    text-align: justify;
+    overflow: scroll;
+}
+ #spiderHeading{
+    background-color: greenyellow;
+    width: 170px;
+    text-align: left;
+}
+#spiderPic{
+    width: 400px;
+    height: 300px;
+    visibility:hidden;
+    /* display: none; */
+    opacity: 0.9;
+}
+#spiderParah{
+    display: inline-block;
+    width: 500px;
+    height: 90px;
+    text-align: justify;
+    overflow: hidden;
+}
+#thorHeading{
+    background-color: greenyellow;
+    width: 170px;
+    text-align: right;
+}
+#thorPic{
+    width: 400px;
+    height: 300px;
+    visibility: visible;
+    display: none;
+    opacity: 0.6;
+}
+#thorParah{
+    display: inline-block;
+    width: 1000px;
+    height: 280px;
+    text-align: justify;
+    overflow: scroll;
+}
+
+
+
+
+
